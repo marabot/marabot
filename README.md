@@ -1,4 +1,8 @@
-## Full Stack Web3 ##
+#### Learning Full Stack Web3
+
+(4 years of experience in C# / ASP.NET and Web2)
+ 
+
 ![](https://img.shields.io/badge/solidity-blue)
 ![](https://img.shields.io/badge/node.js-blue)
 ![](https://img.shields.io/badge/hardhat-green)
