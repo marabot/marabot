@@ -19,6 +19,6 @@
 ![](https://img.shields.io/badge/npm-orange)
 
 
-####  NodeGuardian LVL20 ####
-https://nodeguardians.io/character/marabot
-![Cover](https://raw.githubusercontent.com/marabot/marabot/main/img/nodeguardianJournal.png)
+
+[NodeGuardian LVL20](https://nodeguardians.io/character/marabot/journal)
+
